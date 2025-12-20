@@ -95,14 +95,14 @@ Here are some ideas to get you started:
 
 ## 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aniru1105&show_icons=true&theme=dark" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Dev1910-error&show_icons=true&theme=dark" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aniru1105&theme=dark" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dev1910-error&theme=dark" alt="GitHub Streak" />
 </p>
 
-[![Anirudh's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Aniru1105&theme=github-dark)](https://github.com/Aniru1105)
+[![Tejasv's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Dev1910-error&theme=github-dark)](https://github.com/Dev1910-error)
 
 
 
