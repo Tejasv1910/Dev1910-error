@@ -72,10 +72,10 @@ Here are some ideas to get you started:
 </p>
 
 ## 🔥 About Me
-🎓 **B.Tech in Artificial Intelligence & Data Science** (2022 - 2026) at **Madhav Institute of Technology & Science, Gwalior**  
-📊 Passionate about **Data Analytics, AI, and Machine Learning** .  I specialize in extracting actionable insights from data using SQL, Python, and Power BI to drive business decisions as well as love working on Neural Network. 
-🎵 **Music Enthusiast** – Dark Mystic Synth Beat Producer  
-💡 Love working with **Neural Networks , Python, SQL, R, and Data Visualization tools**
+🎓 **B.Tech in Computer Science and Engineering** (2023 - 2027) at **Samrat Ashok Technological Institute,Vidisha**  
+📊 Hi, i m a Computer Science Engineering student and aspiring **Software Developer** with hands-on experience in **Full Stack Web Development** and **Python-based Data Science**. I’ve completed internships where I worked on real-world projects using the **MERN stack**, API integrations, and dashboard-based systems. I enjoy building clean, user-focused applications, learning new technologies, and continuously improving my problem-solving skills. Currently, I’m focused on strengthening my development fundamentals and creating projects that showcase my growth as a developer.
+
+💡 Love working with **Neural Networks , Python, SQL, C++ , and Development**
 
 ---
 
