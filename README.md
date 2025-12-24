@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <!--
-**Dev1910-error/Dev1910-error** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Tejasv1910/Tejasv1910** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!--
-**Aniru1105/Aniru1105** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Tejasv1910/Tejasv1910** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!--
-# Hi, I'm Anirudh Sharma! 👋
+# Hi, I'm Tejasv Rathore! 👋
 
 🎓 **B.Tech in Artificial Intelligence and Data Science**  
 📊 **Aspiring Data Analyst** passionate about deriving insights from data  
@@ -147,10 +147,10 @@ Here are some ideas to get you started:
 ---
 
 ## 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/anirudh1105/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/tejasv-rathore-0a140232b/)  
 [![HackerRank](https://img.shields.io/badge/HackerRank-Profile-green?style=for-the-badge&logo=hackerrank)](https://www.hackerrank.com/profile/aniru_the_mint)  
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github)](https://github.com/Aniru1105)  
-![Profile Views](https://komarev.com/ghpvc/?username=Aniru1105&color=blue)
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github)](https://github.com/Tejasv1910)  
+![Profile Views](https://komarev.com/ghpvc/?username=Tejasv1910&color=blue)
 
 ---
 ---
