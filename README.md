@@ -117,20 +117,9 @@ Here are some ideas to get you started:
 ## 📂 Featured Projects
 💡 *Check out some of my real-world analytics projects!*
 
-🔹 **[Atliq Sales Insights](https://github.com/Aniru1105/MY_-projects/tree/PROJECT-1)**  
-📌 Developed a **sales analytics system** using **MySQL, Power BI, and DAX**. Automated ETL processes and created interactive dashboards for business insights.
+🔹 **[Converse](https://github.com/Tejasv1910/converse)**  
+Real-time full stack chat application built using MERN stack with Socket.IO for live messaging and secure backend APIs.
 
-🔹 **[Telecom Data Analysis](https://github.com/Aniru1105/Telecom_Analysis)**  
-📌 Performed **ETL operations**, analyzed **employee performance** using **Python and Pandas**, and derived actionable insights from large datasets.
-
-🔹 **[GoodCabs Travel Analysis](https://github.com/Aniru1105/GoodCabs_Analysis.git)**  
-📌 "Optimized cab trip efficiency by 20% through SQL-based ride analysis. Built an interactive Power BI dashboard to visualize driver performance & passenger trends."
-
-🔹 **[Telangana Tourism Analysis](https://github.com/Aniru1105/Tourism_Analysis.git)**  
-📌 "Optimized tourism and visitor rates by 20% through SQL-based ride analysis. Built an interactive Power BI dashboard to visualize travel and tourism trends."
-
-🔹 **[Deeplearning Projects Based on ANN,CNN,RNN and faceRecognition](https://github.com/Aniru1105/Deep-Learning-Projects-ANN-CNN-RNN-and-Face-Recognition.git)**  
-📌 "Developed and implemented multiple deep learning models (ANN, CNN, RNN, and Face Recognition) using TensorFlow/Keras and OpenCV, achieving high accuracy in classification, prediction, and real-time computer vision tasks."
 
 ---
 
@@ -139,7 +128,7 @@ Here are some ideas to get you started:
 - Python Programming
 - Data Analysis with Python
 - Exploratory Data Analysis using Python
-- Statistical Programming with R
+- FullStack Web Development
 - Cloud Computing using Oracle Virtual Box
 
 
@@ -147,8 +136,7 @@ Here are some ideas to get you started:
 ---
 
 ## 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/tejasv-rathore-0a140232b/)  
-[![HackerRank](https://img.shields.io/badge/HackerRank-Profile-green?style=for-the-badge&logo=hackerrank)](https://www.hackerrank.com/profile/aniru_the_mint)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/tejasv-rathore-0a140232b/)    
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github)](https://github.com/Tejasv1910)  
 ![Profile Views](https://komarev.com/ghpvc/?username=Tejasv1910&color=blue)
 
@@ -156,4 +144,4 @@ Here are some ideas to get you started:
 ---
 
 💡 *"Data is the new oil, but only refined data drives decisions!"*  
-⭐️ From [Anirudh Sharma](https://github.com/Aniru1105)
+⭐️ From [Tejasv Rathore](https://github.com/Tejasv1910)
