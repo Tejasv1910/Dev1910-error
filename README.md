@@ -102,7 +102,7 @@ Here are some ideas to get you started:
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tejasv1910-error&theme=dark" alt="GitHub Streak" />
 </p>
 
-[![Tejasv's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Dev1910-error&theme=github-dark)](https://github.com/Dev1910-error)
+[![Tejasv's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Tejasv1910-error&theme=github-dark)](https://github.com/Tejasv1910-error)
 
 
 
